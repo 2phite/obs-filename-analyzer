@@ -28,10 +28,10 @@ Accuracy:  |Expected - Actual| should be < 5 seconds
 ## Quick Start
 
 ```bash
-python analyze_video_filenames.py "C:\Path\To\Videos"
+python obs_filename_analyzer.py "C:\Path\To\Videos"
 ```
 
-Generates `filename_accuracy_report.txt` in the folder.
+Generates `obs_filename_report.txt` in the folder.
 
 ---
 
